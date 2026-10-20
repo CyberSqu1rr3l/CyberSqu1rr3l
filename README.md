@@ -1,16 +1,15 @@
-## Hi there 👋
+### [ SYN → ACK ]  // CyberSqu1rr3l 🐿️
+#### `CYBERSECURITY ENTHUSIAST · PRIVACY BY DESIGN · LIFELONG LEARNER`
 
-<!--
-**CyberSqu1rr3l/CyberSqu1rr3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about information security, privacy, and understanding how systems work beneath the surface.
 
-Here are some ideas to get you started:
+:closed_lock_with_key: Exploring cybersecurity, ethical hacking, and privacy \
+:shield: Advocate for privacy, security, and user autonomy \
+:memo: Publishing write-ups, research, and technical notes \
+:rocket: Always exploring, testing, and learning something new \
+:evergreen_tree: Wandering the digital wilderness, one packet at a time \
+:chestnut: Hoarding cybersecurity knowledge, not vulnerabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe curiosity makes systems stronger, knowledge should be shared, and privacy should be the default — not a luxury.
+
+`root@CyberSqu1rr3l:~$ find . -name '.*' -print | sort | tree -a --fromfile .`
