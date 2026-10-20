@@ -13,3 +13,10 @@ I'm passionate about information security, privacy, and understanding how system
 I believe curiosity makes systems stronger, knowledge should be shared, and privacy should be the default — not a luxury.
 
 `root@CyberSqu1rr3l:~$ find . -name '.*' -print | sort | tree -a --fromfile .`
+
+<picture>
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/CyberSqu1rr3l/CyberSqu1rr3l/output/pacman-contribution-graph.svg"
+  />
+</picture>
