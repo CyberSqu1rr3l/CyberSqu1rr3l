@@ -15,6 +15,14 @@ I believe curiosity makes systems stronger, knowledge should be shared, and priv
 `root@CyberSqu1rr3l:~$ find . -name '.*' -print | sort | tree -a --fromfile .`
 
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CyberSqu1rr3l/CyberSqu1rr3l/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CyberSqu1rr3l/CyberSqu1rr3l/output/pacman-contribution-graph.svg"
+  />
   <img
     alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/CyberSqu1rr3l/CyberSqu1rr3l/output/pacman-contribution-graph.svg"
