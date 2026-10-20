@@ -12,7 +12,7 @@ I'm passionate about information security, privacy, and understanding how system
 
 I believe curiosity makes systems stronger, knowledge should be shared, and privacy should be the default — not a luxury.
 
-`root@CyberSqu1rr3l:~$ find . -name '.*' -print | sort | tree -a --fromfile .`
+`root@CyberSqu1rr3l:~$ ./pacman --hunt-contributions`
 
 <picture>
   <source
